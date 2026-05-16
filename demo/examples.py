@@ -1,5 +1,3 @@
-__author__ = 'stephenhky'
-
 import numpy as np
 
 # 2D points
