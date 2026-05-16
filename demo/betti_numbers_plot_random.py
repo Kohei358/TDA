@@ -1,5 +1,3 @@
-__author__ = 'stephenhky'
-
 import matplotlib.pyplot as plt
 import pylab
 import numpy as np
